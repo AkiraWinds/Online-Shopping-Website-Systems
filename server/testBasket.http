@@ -1,0 +1,31 @@
+// get a basket by ID
+GET http://localhost:8000/basket/basketID1 HTTP/1.1
+
+###
+
+// create basket
+POST http://localhost:8000/user/default/basket HTTP/1.1
+content-type: application/json
+
+{"userId": "default"}
+
+###
+
+// add item to basket
+POST http://localhost:8000/basket/basketID1/items HTTP/1.1
+content-type: application/json
+
+{"productId": "abc123", "name": "aname", "quantity": 1}
+
+###
+
+// update item quantity
+PUT http://localhost:8000/basket/basketID1/items/itemID1 HTTP/1.1
+content-type: application/json
+
+{"quantity": 10}
+
+###
+
+// remove item
+DELETE  http://localhost:8000/basket/basketID1/items/8ad6dbb2-5da4-4450-a368-072ca4f6b39f HTTP/1.1

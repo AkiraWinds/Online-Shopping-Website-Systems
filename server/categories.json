@@ -1,0 +1,40 @@
+{
+  "filters": {
+    "categories": [
+      {
+        "name": "All Categories",
+        "value": "All Categories"
+      },
+      {
+        "name": "Top",
+        "value": "Top"
+      },
+      {
+        "name": "Bottom",
+        "value": "Bottom"
+      },
+      {
+        "name": "Yoga Mat",
+        "value": "Yoga Mat"
+      }
+    ],
+    "prices": [
+      {
+        "name": "All Prices",
+        "value": "All Prices"
+      },
+      {
+        "name": "0 - 99kr",
+        "value": "0-99"
+      },
+      {
+        "name": "100 - 199kr",
+        "value": "100-199"
+      },
+      {
+        "name": "> 199kr",
+        "value": "199-"
+      }
+    ]
+  }
+}

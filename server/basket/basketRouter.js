@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+exports.basketRouter = void 0;
+var express = require("express");
+var basketController_1 = require("./basketController");
+exports.basketRouter = express.Router();
+exports.basketRouter.post('/user/:userId/basket', basketController_1.createBasket);
+exports.basketRouter.get('/basket/:basketId', basketController_1.getBasket);
+exports.basketRouter.post('/basket/:basketId/items', basketController_1.addItemToBasket);
+exports.basketRouter.put('/basket/:basketId/items/:itemId', basketController_1.updateItemQuantity);
+exports.basketRouter["delete"]('/basket/:basketId/items/:itemId', basketController_1.removeItemFromBasket);

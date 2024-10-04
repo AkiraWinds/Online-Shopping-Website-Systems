@@ -1,0 +1,135 @@
+/* Floating Button Styles */
+.btn-floating {
+  position: absolute;
+  border: none;
+  font-size: 20px;
+  border-radius: 0;
+  opacity: 0.9;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px;
+  z-index: 1;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #5b7493;
+  color: #ffffff;
+}
+
+/* Shopping Button Styles */
+.btn-shopping {
+  background-color: #5b7493 !important;
+  color: #ffffff !important;
+  font-size: 20px !important;
+  border-radius: 0;
+  border: none !important;
+  padding: 10px 20px; /* 确保按钮有正确的内边距 */
+  z-index: 1; /* 确保按钮在其他元素之上显示 */
+}
+
+/* Button Hover Styles */
+.btn-floating:hover,
+.btn-shopping:hover {
+  background-color: #2f4561 !important;
+  color: #ffffff !important;
+}
+
+/* Text Floating Styles */
+.text-floating {
+  position: absolute;
+  bottom: 5%;
+  left: 60%;
+  z-index: 1;
+  text-align: left;
+}
+
+.text-floating-product-name {
+  color: #ffffff;
+  font-size: 35px;
+  text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+.text-floating-description,
+.text-floating-price {
+  color: #ffffff;
+  font-size: 20px;
+  text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+
+/* About Us Section */
+section#about-us {
+  text-align: center;
+  background-color: #f8f8f8;
+  padding: 80px 50px;
+  border-top: 1px solid #ddd;
+}
+
+section#about-us h2 {
+  color: #555555dd;
+  font-size: 25px;
+}
+
+section#about-us p {
+  color: #777;
+  margin-top: 20px;
+}
+
+/* About Us Section Divider */
+section#about-us::after {
+  content: "";
+  display: block;
+  width: 80%;
+  height: 1px;
+  background-color: #ddd;
+  margin-top: -1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .btn-floating,
+  .btn-shopping {
+    font-size: 14px;
+  }
+
+  .text-floating-product-name {
+    font-size: 20px;
+  }
+
+  .text-floating-description,
+  .text-floating-price {
+    font-size: 14px;
+  }
+
+  section#about-us h2 {
+    font-size: 18px;
+  }
+
+  section#about-us p {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .btn-floating,
+  .btn-shopping {
+    font-size: 12px;
+  }
+
+  .text-floating-product-name {
+    font-size: 18px;
+  }
+
+  .text-floating-description,
+  .text-floating-price {
+    font-size: 12px;
+  }
+
+  section#about-us h2 {
+    font-size: 16px;
+  }
+
+  section#about-us p {
+    font-size: 12px;
+  }
+}

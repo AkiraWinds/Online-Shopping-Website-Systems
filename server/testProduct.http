@@ -1,0 +1,13 @@
+
+
+//get all products
+GET http://localhost:8000/products HTTP/1.1
+###
+
+//get products by Id
+GET http://localhost:8000/products/top01 HTTP/1.1
+###
+
+// get filtered products
+GET http://localhost:8000/products?category=Top&minPrice=100&maxPrice=199 HTTP/1.1
+###

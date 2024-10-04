@@ -1,0 +1,317 @@
+[
+    {
+        "productId": "top01",
+        "productName": "V-Shaped Droplet Sports Bra Low Intensity CityWalk",
+        "price": 120.00,
+        "currency": "kr",
+        "category": "Top",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/top/1/638410919194070000.jpg",
+        "description": [
+            "Wide strap design for stability without squeezing the shoulders",
+            "Deep V front cross droplet design",
+            "Creates a visually appealing bust and slimming facial effect",
+            "Wide under-bust band for stable movement without displacement",
+            "High elasticity fabric covers various breast shapes",
+            "Comes with a pair of removable triangle cup pads"
+        ],
+        "url": "product.top01.html"
+    },
+    {
+        "productId": "top02",
+        "productName": "Slimming Short Sleeve Sports Bra High Intensity CityWalk Series",
+        "price": 249.00,
+        "currency": "kr",
+        "category": "Top",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/top/2/638410918986830000.jpeg",
+        "description": [
+            "Two-in-one design functions",
+            "Maintains stability around the underbust",
+            "Ensures the garment retains its smooth, wrinkle-free cut",
+            "No shoulder seam design visually slims the figure",
+            "Inverted V chest line tailoring creates a slimming facial proportion",
+            "Double-sided air layer fabric",
+            "Fine knit count for enhanced shaping effect"
+        ],
+        "url": "product.top02.html"
+    },
+    {
+        "productId": "top03",
+        "productName": "Tapered Shoulder Racerback Longline Sports Bra High Intensity CityWalk Series",
+        "price": 249.00,
+        "currency": "kr",
+        "category": "Top",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/top/3/638410918654630000.jpeg",
+        "description": [
+            "High-intensity stable racerback design for maximum support.",
+            "Extended length with a rounded hem for added styling versatility and coverage.",
+            "Dual-layer design ensures extra stability and support.",
+            "The inner layer enhances underbust stability, doubling your comfort.",
+            "Features a pattern for the sensory triangle cup pads, offering both aesthetic appeal and functionality.",
+            "Made with Qbomb Lycra fabric, incorporating Lycra elastic fibers for ultimate flexibility"
+        ],
+        "url": "product.top03.html"
+    },
+    {
+        "productId": "top04",
+        "productName": "Seamless High-Elasticity Long Sleeve Sports Top",
+        "price": 329.00,
+        "currency": "kr",
+        "category": "Top",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/top/4/638440469900730000 (2).jpeg",
+        "description": [
+            "Round neck design for a sleek look that covers elegantly.",
+            "Stress-reducing, high-rebound double knit cuffs ensure a snug fit while maintaining comfort.",
+            "Constructed with high-density yarn that is resistant to washing, maintaining its shape without deformation or loosening.",
+            "Colorfast materials allow for repeated machine washing without loss of vibrancy.",
+            "Hollow fibers designed for quick sweat-wicking, keeping you dry and comfortable during intense activities."
+        ],
+        "url": "product.top04.html"
+    },
+    {
+        "productId": "top05",
+        "productName": "Short Cropped Round Neck Sports Top",
+        "price": 329.00,
+        "currency": "kr",
+        "category": "Top",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/top/5/638437646082630000.jpeg",
+        "description": [
+            "Double-layered round neck, with edge-locking to prevent deformation, enhancing your neckline.",
+            "Slimming fit that is versatile for any occasion, whether as a statement piece or a base layer.",
+            "Double-sided, skin-friendly, and soft fabric, offering unmatched comfort throughout the day.",
+            "Water-resistant material ensures durability, preventing pilling and deformation over time.",
+            "Eight-way stretch fabric adapts seamlessly to all movements.",
+            "Smooth fabric finish for a sleek look and a skin-friendly feel."
+        ],
+        "discountPrice": 249.00,
+        "url": "product.top05.html"
+    },
+    {
+        "productId": "top06",
+        "productName": "Soft U-Back Short Sleeve Bra Top",
+        "price": 249.00,
+        "currency": "kr",
+        "category": "Top",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/top/new/638322016966670000 (1).jpeg",
+        "description": [
+            "Close-fitting, cropped design that offers a sexy and flattering look.",
+            "Made with breathable, sweat-wicking fabric to keep you cool and dry during your workouts.",
+            "Versatile enough for outdoor styling or casual sports wear.",
+            "Crafted with ultra-soft fabric for supreme comfort.",
+            "Comes with fixed pads for added convenience and support."
+        ],
+        "url": "product.top06.html"
+    },
+    {
+        "productId": "bottom01",
+        "productName": "2.0 New Edition SoftSkin GT2.0 High Waist Cropped Sports Leggings Yoga Pants",
+        "price": 299.00,
+        "currency": "kr",
+        "category": "Bottom",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/Bottoms/1/638375470671930000.jpeg",
+        "description": [
+            "Rapid dryness even after sweaty workouts",
+            "360-degree stretch for all-around coverage",
+            "Invisible skin-fit with noticeable extension",
+            "2.0 upgraded version of high-waist cropped pants for enhanced fit",
+            "Lifts the waistline to stabilize hip movement",
+            "Professional flatlock seam technology for completely smooth seams"
+        ],
+        "url": "product.b01.html"
+    },
+    {
+        "productId": "bottom02",
+        "productName": "Multi-Pocket Functional Training Sports Long Pants Courageous",
+        "price": 299.00,
+        "currency": "kr",
+        "category": "Bottom",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/Bottoms/2/638442868938370000.jpeg",
+        "description": [
+            "Rapid dryness even after sweaty workouts",
+            "Professional flatlock seam technology for completely smooth seams",
+            "European standard level 4 color fastness, to keep colors vibrant and unfaded",
+            "Multiple pockets design at the waist"
+        ],
+        "url": "product.b02.html"
+    },
+    {
+        "productId": "bottom03",
+        "productName": "CC Co-branded Change Series High Waist Booty Enhancing Pocket Shorts",
+        "price": 199.00,
+        "currency": "kr",
+        "category": "Bottom",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/Bottoms/3/638390948064130000(1).jpg",
+        "description": [
+            "Dual pocket design for convenient storage of essentials during training.",
+            "Seamless center design to prevent visible lines, ensuring a smooth silhouette.",
+            "Curved V-shaped back seam that accentuates and visually enhances the buttocks.",
+            "High-waist cut provides stable and comprehensive coverage, supporting your core.",
+            "Exclusive leg opening design that clings securely to prevent rolling up."
+        ],
+        "url": "product.b03.html"
+    },
+    {
+        "productId": "bottom04",
+        "productName": "2.0 New Edition SoftSkin GT2.0 High Waist Capri Sports Leggings Yoga Pants",
+        "price": 299.00,
+        "currency": "kr",
+        "category": "Bottom",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/Bottoms/4/638375472541600000.jpeg",
+        "description": [
+            "Seamless center design to prevent visible lines, ensuring a smooth silhouette.",
+            "Curved V-shaped back seam that accentuates and visually enhances the buttocks.",
+            "Exclusive leg opening design that clings securely to prevent rolling up.",
+            "Featuring triple quick-dry technology for instant moisture absorption and high breathability."
+        ],
+        "url": "product.b04.html"
+    },
+    {
+        "productId": "bottom05",
+        "productName": "2.0 New Edition Slim Build High Waist Capri Sports Leggings",
+        "price": 299.00,
+        "currency": "kr",
+        "category": "Bottom",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/Bottoms/5/638442862751330000.jpeg",
+        "description": [
+            "Exceptional resilience provides a firm and tight fit that moves with you.",
+            "Double-sided weaving technique increases fabric density, enhancing overall durability and function.",
+            "Eight-way stretch capability allows for three-dimensional, 360-degree extension and flexibility.",
+            "Updated high waist capri design for a modern aesthetic.",
+            "V-shaped back seam creates a visual lift of the buttocks by 2cm, flattering all buttock shapes and sizes.",
+            "Designed with a narrower waistband for stable support."
+        ],
+        "url": "product.b05.html"
+    },
+    {
+        "productId": "bottom06",
+        "productName": "2.0 New Edition Slim Build High Waist Capri Sports Leggings",
+        "price": 299.00,
+        "currency": "kr",
+        "category": "Bottom",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "image": "/image/Bottoms/6/638375481856000000.jpeg",
+        "description": [
+            "High moisture absorption and sweat-wicking properties for quick drying within 10 minutes.",
+            "Utilizes high-efficiency, lightweight fabric for a non-bulky feel.",
+            "Designed with high resilience to ensure a firm and snug fit.",
+            "Features double-sided weaving that increases fabric density and boosts performance.",
+            "Incorporates eight-way stretch for comprehensive three-dimensional movement."
+        ],
+        "url": "product.b06.html"
+    },
+    {
+        "productId": "mat01",
+        "productName": "The (Big) Mat Made With FSC™ Certified RubberMarble",
+        "price": 180.00,
+        "currency": "kr",
+        "category": "Yoga Mat",
+        "sizes": [],
+        "image": "/image/yoga mat/1/LU9AG9S_064645_1.jpg",
+        "description": [
+            "Grippy top layer for moisture absorption during high-sweat yoga.",
+            "Cushioned, FSC™-certified rubber base ideal for low-sweat practices.",
+            "Contains latex - not recommended for those with rubber or latex allergies.",
+            "Antimicrobial additive to prevent mould and mildew.",
+            "Reversible design with both smooth and cushioned sides."
+        ],
+        "url": "product.mat01.html"
+    },
+    {
+        "productId": "mat02",
+        "productName": "The Workout Mat 6mm",
+        "price": 99.00,
+        "currency": "kr",
+        "category": "Yoga Mat",
+        "sizes": [],
+        "image": "/image/yoga mat/2/LU9AVOS_038470_1.jpg",
+        "description": [
+            "Enhanced grip texture for stable transitions in various exercises.",
+            "Moisture-resistant closed cell technology for a clean workout space.",
+            "Robust construction withstands the pressure of weights and shoes.",
+            "Stain-resistant surface, ensuring easy cleaning and maintenance.",
+            "Eco-friendly top layer made from upcycled automotive PVB.",
+            "Optimized thickness for cushioning joints without compromising balance.",
+            "Non-toxic materials for a safer wellness practice environment.",
+            "Generous dimensions to accommodate all body sizes and shapes.",
+            "Lightweight design for easy transport and storage."
+        ],
+        "url": "product.mat02.html"
+    },
+    {
+        "productId": "mat03",
+        "productName": "The Lightweight Mat 5mm",
+        "price": 99.00,
+        "currency": "kr",
+        "category": "Yoga Mat",
+        "sizes": [],
+        "image": "/image/yoga mat/3/LU9AYAS_064505_1.jpg",
+        "description": [
+            "Grid-textured top layer for light grip in low-sweat practices; ideal with The Towel for high-heat sessions.",
+            "Eco-friendly top layer crafted from recycled PVB, repurposing automotive safety glass.",
+            "Lightweight foam base layer enhances cushioning for comfort.",
+            "Closed cell construction prevents moisture penetration, ensuring hygiene.",
+            "Stain-resistant and easy-to-clean surface for hassle-free maintenance.",
+            "Non-slip performance secures your stance in dynamic movements.",
+            "Antimicrobial treatment to inhibit bacteria and odor."
+        ],
+        "url": "product.mat03.html"
+    }
+]

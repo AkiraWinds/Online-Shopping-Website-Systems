@@ -1,0 +1,5 @@
+// get all categories
+GET http://localhost:8000/products/categories HTTP/1.1
+
+###
+
