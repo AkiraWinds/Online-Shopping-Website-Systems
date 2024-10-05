@@ -11,6 +11,8 @@ const PORT = process.env.PORT || 8000; // Use the environment port or default to
 
 app.use(cors());
 
+app.use(express.static("public"));
+
 // Middleware
 app.use(express.json()); // For parsing application/json
 
