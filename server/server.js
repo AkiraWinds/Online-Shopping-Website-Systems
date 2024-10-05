@@ -9,6 +9,7 @@ var express = require("express");
 var app = express();
 var PORT = process.env.PORT || 8000; // Use the environment port or default to 3000
 app.use(cors());
+app.use(express.static("public")); // 提供 public 文件夹中的静态资源
 // Middleware
 app.use(express.json()); // For parsing application/json
 // Routes
