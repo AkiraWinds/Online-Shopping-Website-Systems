@@ -4,6 +4,7 @@ import "../../styles/cart.css";
 import { useAuth } from "../Home/UserContext";
 import { useHistory } from "react-router";
 import { error } from "console";
+import BASE_URL from "../../config";
 
 export interface Basket {
   basketId: string;
@@ -54,7 +55,7 @@ const Cart: React.FC = () => {
 
   useEffect(() => {
     // Fetch basket by ID
-    fetch(`http://localhost:8000/basket/${basketId}`, {
+    fetch(`${BASE_URL}/basket/${basketId}`, {
       method: "GET",
       headers: { "Content-Type": "application/json" },
     })
@@ -134,7 +135,7 @@ const Cart: React.FC = () => {
   // change item quantity
   const updateItemQuantity = (itemId: string, quantity: number) => {
     if (quantity < 1) return;
-    fetch(`http://localhost:8000/basket/${basketId}/items/${itemId}`, {
+    fetch(`${BASE_URL}/basket/${basketId}/items/${itemId}`, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",
@@ -161,7 +162,7 @@ const Cart: React.FC = () => {
 
   //remove item
   const removeItemFromBasket = (itemId: string) => {
-    fetch(`http://localhost:8000/basket/${basketId}/items/${itemId}`, {
+    fetch(`${BASE_URL}/basket/${basketId}/items/${itemId}`, {
       method: "DELETE",
     })
       .then(() => {

@@ -2,7 +2,7 @@ import React from "react";
 import { Formik, Form, Field, ErrorMessage } from "formik";
 import * as Yup from "yup";
 import { useHistory, useLocation } from "react-router-dom";
-
+import BASE_URL from "../../config";
 import { useAuth } from "./UserContext";
 
 const Banner: React.FC = () => {
@@ -46,7 +46,7 @@ const LoginForm: React.FC = () => {
       onSubmit={(values, actions) => {
         //when form is submitted
         // Call API to create a new user
-        fetch("http://localhost:8000/users", {
+        fetch("${BASE_URL}/users", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
@@ -69,7 +69,7 @@ const LoginForm: React.FC = () => {
             };
 
             // After successfully creating the user, create a basket for the user
-            fetch(`http://localhost:8000/user/${data.userId}/basket`, {
+            fetch(`${BASE_URL}/user/${data.userId}/basket`, {
               method: "POST",
               headers: { "Content-Type": "application/json" },
               body: JSON.stringify({ userId: data.userId }),
