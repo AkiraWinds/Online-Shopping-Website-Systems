@@ -56,5 +56,6 @@
     "@types/react-router-dom": "^5.3.3",
     "@types/uuid": "^10.0.0",
     "react-router-dom": "^5.3.4"
-  }
+  },
+  "proxy": "http://localhost:8000"
 }
